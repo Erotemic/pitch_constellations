@@ -23,4 +23,4 @@ constellation, even after 8 years.
    :align: left
 
 
-..:height: 100px
+.. :height: 100px
