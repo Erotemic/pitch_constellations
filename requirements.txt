@@ -1,0 +1,3 @@
+# Probably can work with older versions, but this is what was tested
+matplotlib >= 3.4.3
+numpy >= 1.21.2
