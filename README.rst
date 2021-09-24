@@ -11,13 +11,16 @@ visualization. The code was never pretty, but the matplotlib figures were.
 
 
 .. The large version wont work because github strips rst image rescaling. 
-.. image:: https://imgur.com/a/G94DSjV.png
-   :height: 100px
+.. image:: https://i.imgur.com/e8haAlt.png
    :align: left
+
+.. :height: 100px
 
 Ok, well the big one doesn't render well, but I do like each individual
 constellation, even after 8 years. 
 
 .. image:: https://i.imgur.com/d1udY4L.png
-   :height: 100px
    :align: left
+
+
+..:height: 100px
